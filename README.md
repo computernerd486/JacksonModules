@@ -30,7 +30,7 @@ public class Sample {
 ```
 
 ##### JSON as it appears in the index (with the ``_id`` field) / Input to the Deserializer:
-```json
+```yaml
 {
   "_id": "idvalue",
   "key": "keyvalue",
@@ -39,7 +39,7 @@ public class Sample {
 ```
 
 ##### Original Input / Desired Output:
-```json
+```yaml
 {
   "id": "idvalue",
   "key": "keyvalue",
