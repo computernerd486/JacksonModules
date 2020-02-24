@@ -1,0 +1,11 @@
+{
+  "_id": "idvalue",
+  "key": "keyvalue",
+  "value": "valuevalue",
+  "exists": "true",
+  "nested": {
+    "_id": "nestId",
+    "key": "nestKey",
+    "value": "nestValue"
+  }
+}
